@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0008-string-to-integer-atoi) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
