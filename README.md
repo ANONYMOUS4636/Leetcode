@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
