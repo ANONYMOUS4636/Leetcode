@@ -10,32 +10,26 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        ListNode dum=new ListNode(-1);
-        ListNode temp=dum;
-        ListNode i=head;
-        ListNode j=head;
-        while(i!=null && i.next!=null){
-            if(i.next!=null && i.val!=i.next.val){
-                temp.next=i;
-                temp=temp.next;
-                i=i.next;
-            }
-            else if(i.next!=null && i.val==i.next.val){
-                j=i.next;
-                while(j!=null && j.val==i.val){
-                    j=j.next;
+         if (head == null || head.next == null) return head;
+
+        ListNode dummy = new ListNode(-1); // Dummy node to handle head removals
+        dummy.next = head;
+        ListNode prev = dummy;
+        ListNode cur = head;
+
+        while (cur != null && cur.next != null) {
+            if (cur.val == cur.next.val) {
+                // Skip all nodes with the same value
+                while (cur.next != null && cur.val == cur.next.val) {
+                    cur = cur.next;
                 }
-                i=j;
-                temp.next=i;
+                prev.next = cur.next; // Remove duplicates
+            } else {
+                prev = prev.next; // Move to next distinct node
             }
-            // else {
-            //     // This covers the case where 'i' is the last standalone node
-            //     temp.next = i;
-            //     temp = temp.next;
-            //     i = i.next;
-            // }
+            cur = cur.next;
         }
-        temp.next=i;
-        return dum.next;
+
+        return dummy.next;
     }
 }
