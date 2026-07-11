@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [2326-spiral-matrix-iv](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +87,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
+## Matrix
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2326-spiral-matrix-iv) |
+## Simulation
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
