@@ -43,6 +43,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -57,6 +58,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -71,6 +73,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -83,6 +86,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -100,4 +104,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
