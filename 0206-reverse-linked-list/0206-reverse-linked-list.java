@@ -28,15 +28,26 @@ class Solution {
 
         //METHOD 2:-
 
-        ListNode p=null;
-        ListNode f=null;
-        ListNode c=head;
-        while(c!=null){
-            f=c.next;
-            c.next=p;
-            p=c;
-            c=f;
-        }
-        return p;
+        // ListNode p=null;
+        // ListNode f=null;
+        // ListNode c=head;
+        // while(c!=null){
+        //     f=c.next;
+        //     c.next=p;
+        //     p=c;
+        //     c=f;
+        // }
+        // return p;
+
+        //METHOD 3:-
+
+        if(head==null) return null;
+        if(head.next==null) return head;
+        ListNode h=head;
+        ListNode a=h.next;
+        h.next=null;
+        ListNode b=reverseList(a);
+        a.next=h;
+        return b;
     }
 }
