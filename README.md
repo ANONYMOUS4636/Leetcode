@@ -54,6 +54,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,4 +124,5 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
