@@ -17,6 +17,7 @@
 | [0162-find-peak-element](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
@@ -123,6 +124,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
@@ -145,6 +147,7 @@
 | [0020-valid-parentheses](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
