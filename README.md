@@ -6,6 +6,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -144,6 +145,7 @@
 | [0020-valid-parentheses](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
