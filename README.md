@@ -16,6 +16,7 @@
 | [0041-first-missing-positive](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -149,6 +150,7 @@
 | [0020-valid-parentheses](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -164,5 +166,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
