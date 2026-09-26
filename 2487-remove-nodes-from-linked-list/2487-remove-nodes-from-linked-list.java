@@ -10,27 +10,30 @@
  */
 class Solution {
     public ListNode removeNodes(ListNode head) {
-        Stack<ListNode> st=new Stack<>();
-        ListNode temp=head;
-        while(temp!=null){
-            if(st.isEmpty()) {
-                st.push(temp);
-                temp=temp.next;
-                }
-            else if(st.peek().val>=temp.val) {
-                st.push(temp);
-                temp=temp.next;
-                }
-            else if(st.peek().val<temp.val) {
-                st.pop();
+        head=reverse(head);
+        ListNode i=head.next;
+        ListNode j=head;
+        while(i!=null){
+            if(i.val<j.val) i=i.next;
+            else {
+                j.next=i;
+                j=i;
+                i=i.next;
             }
         }
-        while(st.size()!=0){
-            temp=st.pop();
-            if(st.isEmpty()) break;
-            st.peek().next=temp;
+        j.next=null;
+        return reverse(head);
+    }
+    public ListNode reverse(ListNode head){
+        ListNode c=head;
+        ListNode p=null;
+        ListNode f=null;
+        while(c!=null){
+            f=c.next;
+            c.next=p;
+            p=c;
+            c=f;
         }
-        head=temp;
-        return head;
+        return p;
     }
 }
