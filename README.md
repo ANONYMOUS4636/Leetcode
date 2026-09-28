@@ -19,6 +19,7 @@
 | [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
@@ -153,6 +154,7 @@
 | [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
@@ -167,5 +169,6 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
