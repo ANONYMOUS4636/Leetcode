@@ -11,14 +11,9 @@ class Solution {
                 st.pop();
                 count++;
             }
-            if(st.isEmpty()){
-                ans[i]=count;
-                st.push(arr[i]);
-            }
-            if(arr[i]<st.peek()){
-                ans[i]=count+1;
-                st.push(arr[i]);
-            }
+            if(st.size()>0) count++;
+            ans[i]=count;
+            st.push(arr[i]);
         }
         return ans;
     }
