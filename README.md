@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0162-find-peak-element](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -124,6 +125,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0085-maximal-rectangle) |
 | [2326-spiral-matrix-iv](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -151,6 +153,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -171,6 +174,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -178,4 +182,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
