@@ -1,4 +1,4 @@
-class MyStack { //add efficient 
+class MyStack { //push efficient
     Queue<Integer> q=new LinkedList<>();
     public MyStack() {
         
@@ -6,28 +6,22 @@ class MyStack { //add efficient
     
     public void push(int x) {
         q.add(x);
+        for(int i=1;i<=q.size()-1;i++){
+            q.add(q.remove());
+        }
     }
     
     public int pop() {
-        for(int i=0;i<q.size()-1;i++){
-            q.add(q.remove());
-        }
         return q.remove();
-
     }
     
     public int top() {
-        for(int i=0;i<q.size()-1;i++){
-            q.add(q.remove());
-        }
-        int ans=q.peek();
-        q.add(q.remove());
-        return ans;
+        return q.peek();
     }
     
     public boolean empty() {
         if(q.size()==0) return true;
-        else return false;
+        return false;
     }
 }
 
