@@ -1,4 +1,4 @@
-class MyQueue { //push effficient
+class MyQueue { //pop and peek efficient
     Stack<Integer> st=new Stack<>();
     Stack<Integer> hel=new Stack<>();
     public MyQueue() {
@@ -6,29 +6,21 @@ class MyQueue { //push effficient
     }
     
     public void push(int x) {
+        while(!st.isEmpty()){
+            hel.push(st.pop());
+        }
         st.push(x);
+        while(!hel.isEmpty()){
+            st.push(hel.pop());
+        }
     }
     
     public int pop() {
-        while(st.size()>1){
-            hel.push(st.pop());
-        }
-        int ans=st.pop();
-        while(hel.size()>0){
-            st.push(hel.pop());
-        }
-        return ans;
+        return st.pop();
     }
     
     public int peek() {
-                while(st.size()>1){
-            hel.push(st.pop());
-        }
-        int ans=st.peek();
-        while(hel.size()>0){
-            st.push(hel.pop());
-        }
-        return ans;
+        return st.peek();
     }
     
     public boolean empty() {
