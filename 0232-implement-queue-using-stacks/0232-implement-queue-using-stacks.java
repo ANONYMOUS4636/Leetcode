@@ -1,4 +1,4 @@
-class MyQueue {
+class MyQueue { //push effficient
     Stack<Integer> st=new Stack<>();
     Stack<Integer> hel=new Stack<>();
     public MyQueue() {
