@@ -6,6 +6,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -216,6 +217,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -236,6 +239,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -243,4 +247,8 @@
 | [0101-symmetric-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
