@@ -221,6 +221,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,4 +263,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0257-binary-tree-paths) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
