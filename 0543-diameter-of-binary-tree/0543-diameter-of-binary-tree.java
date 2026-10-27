@@ -19,12 +19,14 @@ class Solution {
         if(root==null) return 0;
         int left=level(root.left);
         int right=level(root.right);
-        max=Math.max(max,left+right);
+        //max=Math.max(max,left+right);
         return 1+Math.max(left,right);
     }
     public int diameterOfBinaryTree(TreeNode root) {
-        max=0;
-        level(root);
-        return max;
+        if(root==null) return 0;
+        int a=level(root.right)+level(root.left);
+        int b=diameterOfBinaryTree(root.left);
+        int c=diameterOfBinaryTree(root.right);
+        return Math.max(a,Math.max(b,c));
     }
 }
