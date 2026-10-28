@@ -20,20 +20,16 @@ class Solution {
     }
     public List<Integer> rightSideView(TreeNode root) {
         int x=level(root);
-        int[] arr=new int[x];
+        List<Integer> arr=new ArrayList<>();
         helper(root,arr,0);
-        List<Integer> ans=new ArrayList<>();
-        for (int num : arr) {
-            ans.add(num);
-        }
-        return ans;
+        return arr;
 
 
     }
-    public void helper(TreeNode root,int[] arr,int lev){
+    public void helper(TreeNode root,List<Integer> arr,int lev){
         if(root==null) return;
-        arr[lev]=root.val;
-        helper(root.left,arr,lev+1);
+        if(lev==arr.size()) arr.add(root.val);
         helper(root.right,arr,lev+1);
+        helper(root.left,arr,lev+1);
     }
 }
