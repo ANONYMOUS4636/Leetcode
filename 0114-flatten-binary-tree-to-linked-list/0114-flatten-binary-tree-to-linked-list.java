@@ -15,23 +15,21 @@
  */
 class Solution {
     public void flatten(TreeNode root) {
-        if(root==null) return;
-        ArrayList<TreeNode> arr=new ArrayList<>();
-        helper(root,arr);
-        TreeNode temp=arr.get(0);
-        root.right=temp;
-        root.left=null;
-        for(int i=1;i<arr.size();i++){
-            temp.right=arr.get(i);
-            temp=temp.right;
-            temp.left=null;
-        }
-        temp.right=null;
+        helper(root);
     }
-    public void helper(TreeNode root,ArrayList<TreeNode> arr){
-        if(root==null) return;
-        arr.add(root);
-        helper(root.left,arr);
-        helper(root.right,arr);
+    public TreeNode helper(TreeNode root){
+        if(root==null) return null;
+        if(root.right==null && root.left==null) return root;
+        TreeNode a=helper(root.left);
+        TreeNode b=helper(root.right);
+        TreeNode temp=a;
+        if(a==null) return root;
+        while(temp.right!=null){
+            temp=temp.right;
+        }
+        temp.right=b;
+        root.right=a;
+        root.left=null;
+        return root;
     }
 }
