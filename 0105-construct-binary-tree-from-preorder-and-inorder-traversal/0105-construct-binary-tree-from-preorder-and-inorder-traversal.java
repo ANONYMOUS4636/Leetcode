@@ -15,36 +15,22 @@
  */
 class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return helper(preorder,inorder,0);
+        int plo=0;
+        int ilo=0;
+        int phi=preorder.length-1;
+        int ihi=inorder.length-1;
+        return helper(preorder,inorder,plo,phi,ilo,ihi);
     }
-    public TreeNode helper(int[] preorder, int[] inorder,int prepos) {
-        if(prepos>=preorder.length) return null;
-        int inpos=0;
-        //int flag=0;
-        for(int i=0;i<inorder.length;i++) if(preorder[prepos]==inorder[i]) inpos=i;//flag=1;}}
-        //if(flag==0) return null;
-        int[] inorder1=new int[inpos];
-        int[] inorder2=new int[inorder.length-inpos-1];
-        int[] preorder1=new int[inpos];
-        int[] preorder2=new int[inorder.length-inpos-1];
-        for(int i=0;i<inpos;i++) inorder1[i]=inorder[i];
-        int t2=prepos+1;
-        for(int i=0;i<inpos;i++) preorder1[i]=preorder[t2++];
-        int t=inpos+1;
-        for(int i=0;i<inorder2.length;i++) inorder2[i]=inorder[t++];
-        for(int i=0;i<inorder2.length;i++) preorder2[i]=preorder[t2++];
-        TreeNode root=new TreeNode(inorder[inpos]);
-        TreeNode l1=helper(preorder1,inorder1,prepos);
-        TreeNode r1=helper(preorder2,inorder2,prepos);
-        //TreeNode l2=helper(preorder,inorder1,prepos+1);
-        //TreeNode r2=helper(preorder,inorder2,prepos+1);
-        // if(l1!=null) root.left=l1;
-        // else if(l2!=null) root.left=l2;
-        // if(r1!=null) root.right=r1;
-        // else if(r2!=null) root.right=r2;
-        // if(l1==null && l2==null && r1==null && r2==null) return root;
-        root.left=l1;
-        root.right=r1;
+    public TreeNode helper(int[] preorder, int[] inorder, int plo, int phi, int ilo, int ihi){
+        if(plo > phi || ilo > ihi) return null;
+        int r=-1;
+        for(int i=0;i<=ihi;i++) if(preorder[plo]==inorder[i]) r=i;
+        int cnt=r-ilo;
+        TreeNode left=helper(preorder,inorder,plo+1,plo+cnt,ilo,r-1);
+        TreeNode right=helper(preorder,inorder,plo+cnt+1,phi,r+1,ihi);
+        TreeNode root=new TreeNode(preorder[plo]);
+        root.right=right;
+        root.left=left;
         return root;
     }
 }
