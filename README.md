@@ -18,6 +18,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -222,6 +224,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0113-path-sum-ii) |
@@ -267,6 +270,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0113-path-sum-ii) |
@@ -314,6 +318,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
