@@ -16,12 +16,29 @@
 class Solution {
     TreeNode temp=null;
     public boolean isValidBST(TreeNode root) {
-        if(root==null) return true;
-        boolean c=true;
-        boolean a=isValidBST(root.left);     
-        if (temp != null && temp.val >= root.val) c=false;
-        temp=root;
-        boolean b=isValidBST(root.right);
-        return a&&b&&c;
+        long t = Long.MIN_VALUE;
+        TreeNode cur=root;
+        while(cur!=null){
+            if(cur.left!=null){
+                TreeNode prev=cur.left;
+                while(prev.right!=null && prev.right!=cur) prev=prev.right;
+                if(prev.right==null){
+                    prev.right=cur;
+                    cur=cur.left;
+                }
+                else{
+                    prev.right=null;
+                    if(cur.val<=t) return false;
+                    t=cur.val;
+                    cur=cur.right;
+                }
+            }
+            else{
+                if(cur.val<=t) return false;
+                t=cur.val;
+                cur=cur.right;
+            }
+        }
+        return true;
     }
 }
