@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-    TreeNode temp=null;
     public boolean isValidBST(TreeNode root) {
         long t = Long.MIN_VALUE;
         TreeNode cur=root;
