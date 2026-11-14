@@ -237,6 +237,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -285,6 +286,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -325,6 +327,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
