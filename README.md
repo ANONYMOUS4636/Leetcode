@@ -26,6 +26,7 @@
 | [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0682-baseball-game) |
+| [1046-last-stone-weight](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -192,6 +193,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1046-last-stone-weight](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1046-last-stone-weight) |
 ## Bracket Sequences
 |  |
 | ------- |
