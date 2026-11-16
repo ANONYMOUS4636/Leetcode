@@ -21,6 +21,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -35,6 +36,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0162-find-peak-element) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -162,6 +165,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -187,6 +191,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bracket Sequences
 |  |
 | ------- |
