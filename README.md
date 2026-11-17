@@ -26,6 +26,7 @@
 | [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0682-baseball-game) |
+| [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0002-add-two-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2235-add-two-integers) |
@@ -118,6 +120,7 @@
 | [0148-sort-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -167,6 +170,7 @@
 | [0148-sort-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -193,6 +197,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1046-last-stone-weight) |
 ## Bracket Sequences
 |  |
@@ -346,4 +351,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
