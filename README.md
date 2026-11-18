@@ -25,6 +25,7 @@
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0682-baseball-game) |
 | [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1046-last-stone-weight) |
@@ -41,6 +42,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0148-sort-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -170,6 +173,7 @@
 | [0148-sort-list](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
@@ -197,6 +201,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1046-last-stone-weight) |
 ## Bracket Sequences
@@ -360,4 +365,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
