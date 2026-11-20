@@ -33,6 +33,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ANONYMOUS4636/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/ANONYMOUS4636/Leetcode/tree/master/2326-spiral-matrix-iv) |
+| [3731-find-missing-elements](https://github.com/ANONYMOUS4636/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0141-linked-list-cycle](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [3731-find-missing-elements](https://github.com/ANONYMOUS4636/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ANONYMOUS4636/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3731-find-missing-elements](https://github.com/ANONYMOUS4636/Leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
